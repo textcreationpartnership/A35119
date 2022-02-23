@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compassion to all the sorrowful, afflicted, visited, tempted, suffering seed whether inwardly or outwardly in the city of London or elsewhere in England.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35119</idno>
+            <idno type="STC">Wing C7198</idno>
+            <idno type="STC">ESTC R29661</idno>
+            <idno type="EEBO-CITATION">11191280</idno>
+            <idno type="OCLC">ocm 11191280</idno>
+            <idno type="VID">46626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46626)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Compassion to all the sorrowful, afflicted, visited, tempted, suffering seed whether inwardly or outwardly in the city of London or elsewhere in England.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Crook.</note>
+                  <note>Caption title.</note>
+                  <note>Dated at end: The 4th of the 7th month 1665.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46626:1"/>
+            <pb n="1" facs="tcp:46626:1" rendition="simple:additions"/>
+            <head>COMPASSION To all the Sorrowful, Afflicted, Viſited, Tempted, Suffering Seed; whether inwardly or outwardly in the City OF LONDON, Or elſewhere in <hi>England.</hi>
+            </head>
+            <p>
+               <hi>THus ſaith the Lord;</hi> ſay to them that are of a fearful heart: be ſtrong, fear not: behold your God will come with venge<g ref="char:EOLhyphen"/>ance, even God with a recompence: he will come and ſave you.</p>
+            <p>This is ſpoken unto you: whoſe Conſciences are tender; having the deep Sence of Gods Judgments upon your Spirits: which are now upon the City of <hi>London,</hi> and other parts of this Iſle. Whe<g ref="char:EOLhyphen"/>ther upon your own perſons or families, or as yet more remote from you: who wait upon the Lord in the way of his judgments; if poſ<g ref="char:EOLhyphen"/>ſibly he may be intreated by you, to ſtop his hand from ſlaying the Righteous together with the wicked; and thoſe who know not their right hand from their left. Yee know if his anger be kindled but a little, that bleſſed are all thoſe who put their truſt in him.</p>
+            <p>I know your griefs and am well acquainted with your ſorrow: which are moſt of all, that yee your ſelves have not redeemed the time; as yee now ſee yee might have done: (although yee grieve to ſee others deſpiſe Gods Laws) in that for your time yee might have been teachers of others; yee have need to be taught the firſt prin<g ref="char:EOLhyphen"/>ciples
+<pb n="2" facs="tcp:46626:2"/>of the teachings of God: as Repentance for your dead works, it being your daily burthen, that yee can feel no more life ſtiring in your hearts and ſervices, nor no more faith towards God, to draw life and virtue from him; nor no more of the opperations of his hands and openings thereof to fill you with his bleſſings: which makes yee doubt ſometimes, whether yee are of the ſheep of his paſture, or of the number of the flock of his hands: by reaſon of your leanneſs of ſoul and poverty of Spirit; concluding in your ſelves yee have not yet truly learned the Doctrine of Bap<g ref="char:EOLhyphen"/>tiſms: being yee find ſo much of ſelf and the ſpirit of this world alive in you, and ſo little of the hay, ſtraw, and ſtuble yet conſumed and burnt up in you; that yee queſtion many times, whether yee know the foundation of God laid in your hearts. And yee find daily ſo many temptations and vain thoughts lodge within you, to the diſ<g ref="char:EOLhyphen"/>quieting and vexing of your Righteous ſouls: that yee fear the Bap<g ref="char:EOLhyphen"/>tiſme of the holy Spirit is not yet attained by you: ſeeing your ſor<g ref="char:EOLhyphen"/>rows are ſo many, and your comforts ſo few and uncertain; that yee know not certainly whether there be any ſuch holy Spirit come into your hearts.</p>
+            <p>And for the Reſurrection of the Dead and eternal judgment; yee fear that yee know little of them, more then yee have receiv'd by the hearing of the ear, and reading of the Letter without you: there<g ref="char:EOLhyphen"/>fore yee doubt that your faith ſtands but in word and not in power; becauſe it removeth ſo little out of your hearts that ſtood there be<g ref="char:EOLhyphen"/>fore, and giveth you no more victory over the world: but as yee were, ſo yee are ſtill too much in bondage to it; which is your grief. Although too long after victory is preſent with you; but how to attain and perform it continually over all things, both in words, thoughts and actions, yee find not. Yet yee cannot ſatisfie your ſelves with the common faith, <hi>viz.</hi> that ſuch a ſtate or condition is not attainable, but rather find cauſe enough in your ſelves to judge your own remiſneſs and negligence in not watching in the Light; to keep your hearts with all diligence: experiencing that now your own fol<g ref="char:EOLhyphen"/>ly doth correct you, becauſe yee have often had precious ſeaſons and opportunities, (as a daily prize) put into your hands: but yee im<g ref="char:EOLhyphen"/>proved them not as yee might have done. Nevertheleſs, yee dare not (like thoſe whoſe fooliſh hearts are darkened) lay the fault upon God, as if the reaſon was, becauſe he denied you power: never in<g ref="char:EOLhyphen"/>tending to make you perfectly holy, leaſt your Salvation ſhould be
+<pb n="3" facs="tcp:46626:2"/>of your ſelves. But Experience hath taught you otherwiſe; in that when yee are at any time moſt holy and ſanctified throughout in bo<g ref="char:EOLhyphen"/>dy, ſoul, and ſpirit; yee are then moſt meek and lowly, inheriting the preſence and Kingdom of God in your hearts.</p>
+            <p>Further yee know there would be no variance or diſcord be<g ref="char:EOLhyphen"/>tween the Lord and you, but for your defects in love to him and watchfulneſs to his councel: from which cauſes flows, your miſ<g ref="char:EOLhyphen"/>carriages in life and converſation; and ſuch darkneſs upon you, that yee cannot ſee the Salvation of God, crying out as undone; ſaying, we are caſt out of thy ſight, Oh Lord, wilt thou be merciful no more. And no marvel becauſe yee know right well, that if the Lord be alwaies before you, yee cannot be moved.</p>
+            <p>Thus far I have traced you by the foot-ſteps of the flocks of the companions; although to you they ſeem as untroden paths, and like the way of an Eagle, and as a Ship at Sea: yet be it known unto you the ſame ſteps have been troden by the brethren that are in the World; as the way of the Lord to ſhew them what was in their hearts: like as he did to <hi>Iſrael</hi> of old.</p>
+            <p>O that I had the tongue of the learned, ſo as to ſhew you the cauſes of your diſeaſed weakneſſes; that a perfect cure might be received.</p>
+            <p>Firſt of all I find your minds abroad, and your eyes gadding too much in the ends of the Earth, where yee find many wandering like your ſelves: which multitudes ſo infects your minds, as to ſtrengthen your hands in this evil, and thereby to leſſen it in your ſelves.</p>
+            <p>Alſo the wicked one ſo buſieth you, in finding fault with others, (as if yee were to keep their Vineyards;) whereby he cunningly en<g ref="char:EOLhyphen"/>ticeth you to neglect your own, under pretence of ſervice to them, or otherwiſe to fill your hearts ſo with prejudice againſt Religion it ſelf, as if all men were liars: which thing lurking ſo ſecretly in your boſomes, that when the Winter cometh, and ſtormes ariſe it gen<g ref="char:EOLhyphen"/>dreth to fear and bondage; through the mixture of unbelief, careleſ<g ref="char:EOLhyphen"/>neſs, and lukewarm-indifferency: all which now appears to be a monſtrous birth; although before nurſed and dandled as a moſt beau<g ref="char:EOLhyphen"/>tiful Child, and ſo lawfully begotten as none ſo likely to inherit the Kingdom as it. But now yee ſee it is for judgment and muſt not be heir with the ſon of the freewoman.</p>
+            <p>Again as many by talking, what once they did poſſeſs and enjoy, have loſt the ſence and comfort of what they ſhould have to ſup<g ref="char:EOLhyphen"/>port them at preſent; ſo others by ſpeaking ſo much of ſuffering
+<pb n="4" facs="tcp:46626:3"/>are made unfit to ſuffer; and at this day how many are there: who have ſo ſpent their precious time in often relating the cruel deaths and hardſhips of others, that they are neither prepared to die, nor fitted for trial themſelves; and hence alſo ariſeth the multitudes of their fears and troubles.</p>
+            <p>Another cauſe of your fear and trouble, I find to be the falling of many good and righteous people, in this common calamity: as if the Lord had no more reſpect to them that ſerve and fear him then to the wicked and profane; ſeeing what befalls the Swearer, befalls him that fears an Oath. But this comes to paſs that none may preſume; and that all may fear before him: yet the accuſer of the Brethren wounds you ſo ſorely on this account that yee daily feel his ſting<g ref="char:EOLhyphen"/>ings, by all tidings that comes to your ears: concerning the Lords viſiting the Righteous with the wicked, and little Children in their innocency, with grown people in their ſins: which thing as it doth much imbolden the ungodly in their preſumption; ſo it doth diſcou<g ref="char:EOLhyphen"/>rage the weak in the faith, as if they ſerved God for nought; not remembring that it is written, No man knoweth either love or ha<g ref="char:EOLhyphen"/>tred by all that is before him. And it is meet it ſhould be ſo, be<g ref="char:EOLhyphen"/>cauſe the love and hatred are to the two ſeeds of <hi>Jacob</hi> and <hi>Eſau</hi> which are inviſible: therefore, they that keep not to the light in the daily watchfulneſs through believing in it: but look out at things viſible and temporal, ſuch are unſtable in all their wayes, and miſin<g ref="char:EOLhyphen"/>terpret all the Lords proceedings: whence ariſeth ſuch diſconten<g ref="char:EOLhyphen"/>tedneſs of mind, and trouble of ſpirit; that they are ready to ſay with <hi>Jonas,</hi> they do well to be angry; (thinking they have cauſe e<g ref="char:EOLhyphen"/>nough for it) even unto death.</p>
+            <p>Thus doth the evil nature deal with the Lord, when it gets looſe from the bit and bridle. But this is the Plague for people to die in their ſins, as Chriſt ſaid to the <hi>Jewes,</hi> (all muſt die) <hi>but yee ſhall die in your ſins.</hi>
+            </p>
+            <p>Yet hear O <hi>Jacob,</hi> and hearken O <hi>Iſrael</hi> that art afflicted, toſſed with tempeſt and not comforted; the Lord will lay thy foundati<g ref="char:EOLhyphen"/>on as with precious ſtones, thou ſhalt be taught of the Lord, and in Righteouſneſs ſhalt thou be eſtabliſhed: thou ſhalt be far from op<g ref="char:EOLhyphen"/>preſſion, for thou ſhalt not fear.</p>
+            <p>A farther cauſe of fear and trouble may be the natural temper and inclination of your minds and ſpirits, not yet knowing the ſeed of life ſo raiſed into Dominion in your Hearts, as to witneſs it
+<pb n="5" facs="tcp:46626:3"/>ſtronger in you, then he that is in the world: therefore, yee lie open to the ſtormes and blaſts of fear and diſtruſt; notwithſtanding the root of the matter may be in you, yet is it but as a ſeed ſown in weakneſs, and as yet not raiſed in power. And by reaſon of this your natural temper, yee may labour more with your own hearts, then ſome others do, and yet not able to attain that victory and cou<g ref="char:EOLhyphen"/>rage, which they arrive at: which makes you conclude the root of the matter is not in you, and that one day yee ſhall fall by the hand of <hi>Saul,</hi> &amp; your fears do ſo attend you upon every approach of dan<g ref="char:EOLhyphen"/>ger, as thoſe that can do nothing of your own ſelves, and yet are able to do all things, through Chriſt ſtrengthening of you. I know you well, that when yee are naked none ſo timerous, yee knowing ſelf to be of no reputation: but when yee have girt on ſtrength and ſunk down into the armour of Light, none ſo bold and valiant, although thou be but a little one, thou art as <hi>David;</hi> not afraid of great <hi>Goli<g ref="char:EOLhyphen"/>ah,</hi> when into the name of the Lord thou art gotten. Feel me for I would not have you diſmaid, becauſe of this kind of fear: therefore be yee ſtill, when yee feel it ariſe in you; look not at it: but keep your minds out of all compliance with it: and the juſt that lives by faith will ſpring in your hearts, ſuddenly daunting your fears and driving them back; whereby yee will witneſs the power of God to ariſe in you, by which through faith yee will be kept unto Salvation.</p>
+            <p>But in your journey it will fare with you as ſometime with <hi>Ahaz,</hi> unto whom the Lord ſaid, ask thee a ſign, when the enemies conſpi<g ref="char:EOLhyphen"/>red againſt him: but <hi>Ahaz</hi> ſaid, I will not ask, neither will I tempt the Lord, &amp;c. In like manner will yee find your ſouls compaſſed a<g ref="char:EOLhyphen"/>bout with evils; ſome that yee are guilty of, through negligence, &amp;c. and others laid to your charge by the accuſer, as if becauſe he temp<g ref="char:EOLhyphen"/>ted, yee had conſented, and others alſo by him threatned, to come upon you, as a juſt reward for the former: yet in this very condi<g ref="char:EOLhyphen"/>tion the Lord bids you believe in his Grace; that ſhall be ſufficient for you in this great ſtrait: but take heed at ſuch a time, leaſt like <hi>Ahaz</hi> yee haſtily reply, I will not, nor I cannot believe, neither will I tempt the Lord in preſuming to be quiet and ſtill through be<g ref="char:EOLhyphen"/>lieving in his Light and power that ſecretly ſhews me my duty, and ſtirs me up unto it in my own breaſt, in this cloſe beſetting.</p>
+            <p>I ſay unto you, if yee will not now believe, (as in hope againſt hope) yee ſhall not be eſtabliſhed But on the contrary, if yee will believe in the Light, this great diſtreſs and ſore beſiege ſhall be unto you, as
+<pb n="6" facs="tcp:46626:4"/>the death of <hi>Lazarus</hi> was unto <hi>Martha</hi> and <hi>Mary,</hi> concerning which Chriſt ſaid he was glad (although they were troubled) in that it ſhould be an advantage to their faith, whereby they ſaw the glory of God, in Chriſt raiſing him from the dead.</p>
+            <p>But I know yee are ſo overwhelmed with fears many times that yee cannot hearken nor be ſtill, like the Children of <hi>Iſrael</hi> that could not hearken unto <hi>Moſes,</hi> becauſe of the anguiſh of their ſpirits: even ſo do your fears and unbelief indiſpoſe and unfit you for any ſervice acceptable in Gods ſight. wherby ye are ready to conclude your ſelves to be without amongſt the fearful and unbelieving, &amp;c. <hi>Rev.</hi> 21.8. But I ſay unto you, that he who came not to call the Righteous, but Sinners to Repentance: ſhall not break the bruiſed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed, nor quench the ſmoaking flax; he it is that invites you, becauſe yee are weary and heavy laden, and who ever comes to him he will in no wiſe caſt off: for he comes to deliver thoſe; who all their life time were ſubject to bondage by reaſon of the fear of Death. Therefore, take heed yee refuſe not him that ſpeaks from Heaven, who appears the ſecond time unto them that look for him without ſin unto Salvation, to ſet them free through believing in the truth, which God loves in your inward parts: which freedom in due time yee will reap, (Oh yee that have ſown in tears) if yee faint not; and that yee may not faint, he hath provided a Cordial for you, and that near you, even the Spirit it ſelf to help your infirmity, and to comfort you by bearing witneſs with your Spirits, that yee are the Lords: which above all things ye deſire to know, and to have the full aſſurance of. The councel of the Lord is unto you in this caſe to delight your ſelves in him, and hereby will you enjoy the deſires of your hearts &amp; through keeping his ſayings, which yee will hear him daily ſaying in you, and unto you, as humble and meek in his Light yee abide and walk, and yee will eaſily know his voice, and his words to be Spirit and life, and that yee may be fully aſſured it is he, the works which he doth in you, and for you, bears witneſs of him. And by faith in him will he become an Inha<g ref="char:EOLhyphen"/>bitant in you, for we are all the Children of God by faith in Chriſt Jeſus; and by faith is he kept dwelling in your hearts, and hereby will yee know that yee know him, and have the full aſſurance of him, becauſe the Son of God is come to give you this underſtanding by virtue of his being in you and yee in him, who is true God and eter<g ref="char:EOLhyphen"/>nal life.</p>
+            <p>I have now ſomething to ſay to thoſe <hi>Fearful;</hi> that are without a<g ref="char:EOLhyphen"/>mongſt
+<pb n="7" facs="tcp:46626:4"/>the unbelievers and abominable, murderers, and whoremon<g ref="char:EOLhyphen"/>gers and ſorcerers, and all liars who ſhall have their portion in the Lake: who cannot endure the Lamb, nor the preſence of God when he ſteps upon the throne but flie to the Mountains and hills in which they have truſted to hide them in the day of Calamity. Theſe are of <hi>Cains</hi> generation that are better at killing then ſacrificing, and as the fruit of their doings they are alwayes afraid, &amp; that where no fear is, even of every man (not knowing whom to truſt) as <hi>Cain</hi> was; and although ſuch hide their ſin as <hi>Adam</hi> they ſhall not proſper. But of this ſort I have ſomething to ſay (more at large) by themſelves, and ſo I paſs them by at preſent.</p>
+            <p>Others there are who are yet without amongſt the dogs, unto whom I intend not the Childrens bread before ſpoken of; And they are ſuch who are alwayes learning, but never able to come to the knowledge of the truth, to make them free from their fears, being laden with ſin and led away with divers luſts; thinking an opinion of truth will ſave them, while they are crucifying afreſh the Son of God and putting him to open ſhame: flying to Scripture ſanctuary as the <hi>Jews</hi> did, who ſearcht the Scriptures but would not come to Chriſt, and in a wrong zeal, as the Diſciples did; when they would have had thoſe conſumed that followed not with them, urging to Chriſt the example of <hi>Elias.</hi> But let theſe know that their fears flow from the guilt of ſin that defiles their Conſciences: which all the ſacrifices that they offer day by day, can never take away, nor make the comers thereunto perfect: becauſe they reach not the Conſcience, but ſtill there remains a conſcience accuſing for ſin: becauſe they believe not in the Light to walk in it; that the blood of Jeſus might be known to ſprinkle their hearts from an evil Conſcience, that they may wit<g ref="char:EOLhyphen"/>neſs by it perfection as pertaining to the Conſcience. Therefore, theſe are not free from afrighting, terrifying fears, becauſe their ſins remains, how confident ſoever they may ſeem to be of their eternal conditions, in that they know not the truth as it is in Jeſus; for if they did it would make them free. Unto ſuch I ſay, they are yet too high and wiſe for God, and therefore muſt come down to know a meek, poor and quiet ſpirit within them: which is of price beyond all their talk, knowledges and empty profeſſion of Scriptures, God and Chriſt without them, while they have not learned to ſtand ſtill to feel the ſpirit of Chriſt to be their ſtrength &amp; leader within them: theſe ſhall likewiſe periſh and dye in their ſins, if they bring not forth
+<pb n="8" facs="tcp:46626:5"/>fruits meet for repentance; through that faith which is held in a pure Conſcience.</p>
+            <p>But unto you whoſe hearts are tender, and Conſciences awakned unto Righte<g ref="char:EOLhyphen"/>ouſneſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſhall the Son of Righteouſneſs ariſe with healing in his Wings: for yee love his preſent appearance in your hearts, and wait for the brightneſs of his coming to conſume what ever is contrary to himſelf, that he may be and none beſides h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m. Therefore, for your comfort I have this to aſſure you of, from my God and your God, that he will come quickly, and will not tarry, and yee know his reward is with him: becauſe yee never enjoyed him but yee were ſufficiently rewarded, for waiting upon him.</p>
+            <p>And theſe clouds of ſufferings, whether ſickneſs, bonds or baniſhment, are but as the evening which muſt be added to the morning to make up the laſt day (in which God will perfectly raiſe up his ſeed) as well as the firſt day. O ſing thou barren, and thou that didſt not bear; for now ſhalt thou be fruitful in Children, and they ſhall fing together as the ſons of the morning of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oly day, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> new ſong which none can learn but the redeemed out of the Earth. Al<g ref="char:EOLhyphen"/>though now in the evening thou may be weeping by the R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers of <hi>Babylon</hi> with thy Inſtrument untun'd, becauſe in a ſtrange Land. Behold the Bridegroom cometh, at whoſe preſence thy ſorrow ſhall be turned into rejoycing, and thy joy ſhall none take from thee: But the World ſhall mourn; and now is the day of their ſorrow begun, even that great and ſore diſtreſs of Nations ſpoken of, with that unexpreſſible wo, wo, wo, upon the Inhabitants of the Earth: which hath been often ſounded through the Lords witneſſes and ſervants, that it may be known there have been Prophets in <hi>England,</hi> and ſounding in thy ſtreets O <hi>London.</hi> But who ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l live when God doth this, beſides the ſeed that ſhall ſerve the Lord.</p>
+            <p>Feel it already begin to ariſe in your hearts; (O all yee that fear the Lord) by all the oppoſitions it meets withal, and ſaying in you if this be to be vile to rejoyce at the return of the Gl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry of Iſrael, I will yet be more vi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and all the lookers on like <hi>Michal</hi> shall be a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hamed when the Seed of <hi>David</hi> shall be ex<g ref="char:EOLhyphen"/>alted, over all to the praiſe of the glory of the name of its God for ever: There<g ref="char:EOLhyphen"/>fore thou Royal ſeed it is good for thee to draw near unto him: that when he takes peace from the Earth both within and without, that then thou may en<g ref="char:EOLhyphen"/>courage they ſelf in the Lord thy God, who is over all bleſſed for evermore, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>This is from a ſufferer with the Righ<g ref="char:EOLhyphen"/>teous ſeed, and one that prayes and waits for its deliverance out of all its troubles in all where it yet groans for Redemption, a ſalutation of un<g ref="char:EOLhyphen"/>feigned love. <hi>John Crook,</hi>
+               </signed>
+               <dateline>
+                  <date>The 4th. of the 7th Month 1665.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:46626:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
